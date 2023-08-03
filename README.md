@@ -13,7 +13,7 @@ Untuk memvisualisasikan negara-negara dengan kasus fatality rate tertinggi akiba
 
 Dengan memilih kolom fatality_ratio pada data frame df_top_20_fatality_rate_on_august terapkanlah method-method berikut secara chaining mulai dari pengurutan dengan .sort_values, plot dengan .plot menggunakan keyword argument kind="barh".
 
-![alt text](?raw=true)
+![alt text](https://github.com/muhammadrafi18/Project_Analisis_Data_COVID19_di_Dunia_ASEAN/blob/main/Slide1.JPG?raw=true)
 
 ## Visualisasi Kasus COVID-19 di ASEAN
 
@@ -21,4 +21,4 @@ Untuk visualisasi kali ini menggunakan seaborn lineplot untuk menampilkan perban
 
 Menggunakan keyword argument data yaitu df_covid_denormalized_asean_march_onward, x yaitu index data frame df_covid_denormalized_asean_march_onward, y yaitu kolom confirmed_cases, dan hue yaitu kolom country_name.
 
-![alt text](?raw=true)
+![alt text](https://github.com/muhammadrafi18/Project_Analisis_Data_COVID19_di_Dunia_ASEAN/blob/main/Slide2.JPG?raw=true)
